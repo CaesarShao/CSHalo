@@ -1,6 +1,7 @@
 package com.ethanco.halo.turbo.mina;
 
-import android.support.annotation.NonNull;
+
+import androidx.annotation.NonNull;
 
 import com.ethanco.halo.turbo.ads.AbstractSocket;
 import com.ethanco.halo.turbo.ads.IKeepAliveListener;
